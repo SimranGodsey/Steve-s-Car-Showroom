@@ -20,7 +20,9 @@ Can you analyse the following data to provide him with all the answers he requir
 ## Datasets
 
 **sales:** Data related to the sales of the cars
+<br>
 **cars:**  It contails details of all the cars
+<br>
 **salespersons:** It contains all the details of the salesman 
 
 ## Challenge_1_Questions
