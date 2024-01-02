@@ -1,6 +1,8 @@
 # Challenge No 1 : Steves Car Showroom
 
+<p align="center">
 <img src="https://www.steeldata.org.uk/steveshowroom.jpg">
+
 
 View the case study [HERE](https://www.steeldata.org.uk/sql1.html)
 
@@ -34,4 +36,4 @@ Can you analyse the following data to provide him with all the answers he requir
 9. What is the name and city of the salesperson who sold the most number of cars in the year 2023?
 10. What is the name and age of the salesperson who generated the highest revenue in the year 2022?
 
-## Click here for solution :
+## Click here for solution : https://github.com/SimranGodsey/Steve-s-Car-Showroom/blob/main/Challenge%20No%201
