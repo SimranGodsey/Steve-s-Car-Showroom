@@ -39,3 +39,6 @@ Can you analyse the following data to provide him with all the answers he requir
 10. What is the name and age of the salesperson who generated the highest revenue in the year 2022?
 
 ## Click here for solution : [Here](https://github.com/SimranGodsey/Steve-s-Car-Showroom/blob/main/Challenge%20No%201)
+
+## Connect with me : [Here](https://www.linkedin.com/feed/update/urn:li:activity:7147956638035943426/)
+
