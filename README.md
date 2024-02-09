@@ -4,7 +4,7 @@
 <img src="https://www.steeldata.org.uk/steveshowroom.jpg">
 
 
-View the case study [HERE](https://www.steeldata.org.uk/sql1.html)
+View the case study [HERE](https://mattsteel87.wixsite.com/datacoach/blank-page-1)
 
 
 ## Table Of Contents
